@@ -7,7 +7,7 @@ Objective of this Learning Project
 
 2.Less than 20k Parameters.
 
-3.You can use anything from above you want.
+3.You can use anything from above you want.#(Experimentation is allowed)
 
 4.Less than 20 Epochs.
 
