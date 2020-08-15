@@ -18,3 +18,7 @@ The main objective of this learning assignment is to design a network to classif
 Constraints
 
 Copying Architecture From above project is not allowed, this for reference and learning how to integrate things Like Dropout, Batchnorm, etc.
+
+
+
+Parameters_S4.JPG
