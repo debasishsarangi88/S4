@@ -1,7 +1,7 @@
 # S4
-##CV Assignment on Architectural Basics
+## CV Assignment on Architectural Basics
 
-###The main objective of this learning assignment is to design a network to classify the digit images from the MNIST dataset with the following requirements:
+### The main objective of this learning assignment is to design a network to classify the digit images from the MNIST dataset with the following requirements:
 
 1.99.4% validation accuracy.
 
