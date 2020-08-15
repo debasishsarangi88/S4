@@ -1,13 +1,13 @@
 # S4
 #CV Assignment on Architectural Basics
 
-Objective of this Learning Project
+The main objective of this learning assignment is to design a network to classify the digit images from the MNIST dataset with the following requirements:
 
 1.99.4% validation accuracy.
 
 2.Less than 20k Parameters.
 
-3.You can use anything from above you want.#(Experimentation is allowed)
+3.Experimentation is allowed.
 
 4.Less than 20 Epochs.
 
@@ -17,4 +17,4 @@ Objective of this Learning Project
 
 Constraints
 
-Don't Copy Architecture From above project, Just Learn How To Integrate Things Like Dropout, Batchnorm, etc.
+Copying Architecture From above project is not allowed, Just Learn How To Integrate Things Like Dropout, Batchnorm, etc.
