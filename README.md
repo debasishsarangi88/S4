@@ -19,4 +19,17 @@ Constraints
 
 Copying Architecture From above project is not allowed, this for reference and learning how to integrate things Like Dropout, Batchnorm, etc.
 
+So the After lot of iteration and experiemnts our final Architecture is like shown in image.
+We have not used fully connected layer and also dropout in our final version of network.
+Keeping the Parameters constraint in mind we have adjusted the inout and output size.
+
 ![Final Architecture](Final_Architecture.JPG)
+
+As instructed our parameters are less than 20k.
+
+![Parameters](Parameters_S4.JPG)
+
+As per the requirement we are getting the accuracy of 99.40 in one of the epochs.
+
+![Accuracy](Accuracy_99.40.JPG)
+
